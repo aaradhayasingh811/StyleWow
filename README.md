@@ -73,6 +73,8 @@ StyleWow is a **smart fashion recommendation engine** that helps you find the pe
 
 
 ## Project Structure
+
+```sh
 .
 ├── public/ 
 ├── src/
@@ -104,7 +106,10 @@ StyleWow is a **smart fashion recommendation engine** that helps you find the pe
 ├── tailwind.config.js 
 ├── postcss.config.js 
 ├── vite.config.js 
-└── README.md
+└── README.
+
+```
+---
 
 
 ## Getting Started
