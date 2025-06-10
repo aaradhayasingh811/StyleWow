@@ -1,4 +1,4 @@
-# StyleWow - Your Personal AI Fashion Assistant  
+# StyleWow - Your Personal  Fashion Assistant  
 
 🌟 **Discover outfits tailored to your body shape, skin tone, occasion, and budget!**  
 
@@ -47,7 +47,7 @@ StyleWow is a **smart fashion recommendation engine** that helps you find the pe
 - Occasion (Casual, Party, Work, etc.)  
 - Budget range  
 
-### **Step 2: Get AI-Generated Recommendations**  
+### **Step 2: Get Generated Recommendations**  
 🤖 Our system analyzes your inputs and **scrapes Amazon, Myntra & Flipkart** to suggest outfits that:  
 ✅ Flatter your body shape  
 ✅ Match your skin tone  
